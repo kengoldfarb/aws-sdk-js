@@ -22,7 +22,7 @@
       "coffeeify": "*"
     },
     "dependencies": {
-      "aws-sdk-apis": "2.x",
+      "aws-sdk-apis": "2.0.5",
       "xml2js": "0.2.4",
       "xmlbuilder": "0.4.2"
     },
